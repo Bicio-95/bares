@@ -40,14 +40,14 @@ public class bares {
 		return NumeroSocio;
 	}
 	
-	public boolean ConsultaCPF(){
-		if(getNome() == getNome())
-			return true;
-		
-		else{
+	public int ConsultaCPF(int CPFCliente){
+		if(CPFCliente == getCPF()){
 			
-		return false;
 		}
+			
+		return CPFCliente;
+		
+		
 	}
 	
 	
