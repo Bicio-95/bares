@@ -13,6 +13,7 @@ testes unitários e JUnit.
 
 
 //http://javafree.uol.com.br/topic-886008-Ajuda-Cadastro-alterar-e-excluir.html
+//http://www.guj.com.br/t/criando-um-sistema-simples-de-cadastro-de-clientes-resolvido/91865/2
 
 package bares;
 
